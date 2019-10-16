@@ -1,6 +1,6 @@
 # Purpose
 
-Meteorological data, d18Oprecip outputs from LMDZ-NCEP20 and MUGCM models and tree-ring d18O data used in Lavergne et al. (2017) for Argentina and Québec.
+Meteorological data, precipitation d18O outputs from LMDZ-NCEP20 and MUGCM models and tree-ring d18O data used in Lavergne et al. (2017) for Argentina and Québec.
 
 The daily meteorological data used for Québec were retrieved from the webpage of the Natural Resources Canada products (Natural Resources Canada, http://cfs.nrcan.gc.ca/projects/3/4), while those for Argentina were extracted from the Earth System Research Laboratory (ESRL) of the National Oceanic & Atmospheric Administration (ESRL-NOAA) webpage (ESRL-NOAA, 20th Century Reanalysis V2c, https://www.esrl.noaa.gov/psd/data/ gridded/data.20thC_ReanV2c.html). 
 
